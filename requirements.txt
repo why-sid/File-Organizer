@@ -1,5 +1,5 @@
-tkinter
-pyinstaller
-shutil
-os
-logging
+tkinter         # for the GUI
+requests        # for making API calls to VirusTotal
+shutil          # for file operations
+logging         # for logging file movements and errors
+argparse        # for command-line arguments (optional)
