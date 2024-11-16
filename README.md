@@ -9,7 +9,7 @@ A simple Python-based file organizer that categorizes and organizes your files i
 - **GUI interface**: Uses `Tkinter` to provide an easy-to-use interface for the user.
 - **Progress indication**: Displays a progress window while files are being organized.
 - **Customization**: Can be expanded to add more file types and categories.
--**Security Update**: Can detect malwares and other viruses too.
+- **Security Update**: Can detect malwares and other viruses too.
 
 ![App Screenshot](images/Screenshot.png)
 
